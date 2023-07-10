@@ -1,1 +1,1 @@
-# power-bim-dashboard
+# power-bi-dashboard
